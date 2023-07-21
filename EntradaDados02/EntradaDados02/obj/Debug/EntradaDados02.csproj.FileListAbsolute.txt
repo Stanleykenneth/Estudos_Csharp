@@ -1,0 +1,8 @@
+D:\C#\EntradaDados02\EntradaDados02\bin\Debug\EntradaDados02.exe.config
+D:\C#\EntradaDados02\EntradaDados02\bin\Debug\EntradaDados02.exe
+D:\C#\EntradaDados02\EntradaDados02\bin\Debug\EntradaDados02.pdb
+D:\C#\EntradaDados02\EntradaDados02\obj\Debug\EntradaDados02.csproj.AssemblyReference.cache
+D:\C#\EntradaDados02\EntradaDados02\obj\Debug\EntradaDados02.csproj.SuggestedBindingRedirects.cache
+D:\C#\EntradaDados02\EntradaDados02\obj\Debug\EntradaDados02.csproj.CoreCompileInputs.cache
+D:\C#\EntradaDados02\EntradaDados02\obj\Debug\EntradaDados02.exe
+D:\C#\EntradaDados02\EntradaDados02\obj\Debug\EntradaDados02.pdb

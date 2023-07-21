@@ -1,0 +1,15 @@
+D:\C#\Exercicio_Proposto\Exercicio_Proposto\bin\Debug\net6.0\Exercicio_Proposto.exe
+D:\C#\Exercicio_Proposto\Exercicio_Proposto\bin\Debug\net6.0\Exercicio_Proposto.deps.json
+D:\C#\Exercicio_Proposto\Exercicio_Proposto\bin\Debug\net6.0\Exercicio_Proposto.runtimeconfig.json
+D:\C#\Exercicio_Proposto\Exercicio_Proposto\bin\Debug\net6.0\Exercicio_Proposto.dll
+D:\C#\Exercicio_Proposto\Exercicio_Proposto\bin\Debug\net6.0\Exercicio_Proposto.pdb
+D:\C#\Exercicio_Proposto\Exercicio_Proposto\obj\Debug\net6.0\Exercicio_Proposto.csproj.AssemblyReference.cache
+D:\C#\Exercicio_Proposto\Exercicio_Proposto\obj\Debug\net6.0\Exercicio_Proposto.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Exercicio_Proposto\Exercicio_Proposto\obj\Debug\net6.0\Exercicio_Proposto.AssemblyInfoInputs.cache
+D:\C#\Exercicio_Proposto\Exercicio_Proposto\obj\Debug\net6.0\Exercicio_Proposto.AssemblyInfo.cs
+D:\C#\Exercicio_Proposto\Exercicio_Proposto\obj\Debug\net6.0\Exercicio_Proposto.csproj.CoreCompileInputs.cache
+D:\C#\Exercicio_Proposto\Exercicio_Proposto\obj\Debug\net6.0\Exercicio_Proposto.dll
+D:\C#\Exercicio_Proposto\Exercicio_Proposto\obj\Debug\net6.0\refint\Exercicio_Proposto.dll
+D:\C#\Exercicio_Proposto\Exercicio_Proposto\obj\Debug\net6.0\Exercicio_Proposto.pdb
+D:\C#\Exercicio_Proposto\Exercicio_Proposto\obj\Debug\net6.0\Exercicio_Proposto.genruntimeconfig.cache
+D:\C#\Exercicio_Proposto\Exercicio_Proposto\obj\Debug\net6.0\ref\Exercicio_Proposto.dll

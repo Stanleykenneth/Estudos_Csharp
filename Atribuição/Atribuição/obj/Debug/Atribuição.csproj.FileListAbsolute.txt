@@ -1,0 +1,8 @@
+D:\C#\Atribuição\Atribuição\bin\Debug\Atribuição.exe.config
+D:\C#\Atribuição\Atribuição\bin\Debug\Atribuição.exe
+D:\C#\Atribuição\Atribuição\bin\Debug\Atribuição.pdb
+D:\C#\Atribuição\Atribuição\obj\Debug\Atribuição.csproj.AssemblyReference.cache
+D:\C#\Atribuição\Atribuição\obj\Debug\Atribuição.csproj.SuggestedBindingRedirects.cache
+D:\C#\Atribuição\Atribuição\obj\Debug\Atribuição.csproj.CoreCompileInputs.cache
+D:\C#\Atribuição\Atribuição\obj\Debug\Atribuição.exe
+D:\C#\Atribuição\Atribuição\obj\Debug\Atribuição.pdb

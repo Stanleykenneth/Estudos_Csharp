@@ -1,0 +1,8 @@
+D:\C#\Conversao_Implicita_E_Casting\Conversao_Implicita_E_Casting\bin\Debug\Conversao_Implicita_E_Casting.exe.config
+D:\C#\Conversao_Implicita_E_Casting\Conversao_Implicita_E_Casting\bin\Debug\Conversao_Implicita_E_Casting.exe
+D:\C#\Conversao_Implicita_E_Casting\Conversao_Implicita_E_Casting\bin\Debug\Conversao_Implicita_E_Casting.pdb
+D:\C#\Conversao_Implicita_E_Casting\Conversao_Implicita_E_Casting\obj\Debug\Conversao_Implicita_E_Casting.csproj.AssemblyReference.cache
+D:\C#\Conversao_Implicita_E_Casting\Conversao_Implicita_E_Casting\obj\Debug\Conversao_Implicita_E_Casting.csproj.SuggestedBindingRedirects.cache
+D:\C#\Conversao_Implicita_E_Casting\Conversao_Implicita_E_Casting\obj\Debug\Conversao_Implicita_E_Casting.csproj.CoreCompileInputs.cache
+D:\C#\Conversao_Implicita_E_Casting\Conversao_Implicita_E_Casting\obj\Debug\Conversao_Implicita_E_Casting.exe
+D:\C#\Conversao_Implicita_E_Casting\Conversao_Implicita_E_Casting\obj\Debug\Conversao_Implicita_E_Casting.pdb

@@ -1,0 +1,8 @@
+D:\C#\Curso\Curso\bin\Debug\Curso.exe.config
+D:\C#\Curso\Curso\bin\Debug\Curso.exe
+D:\C#\Curso\Curso\bin\Debug\Curso.pdb
+D:\C#\Curso\Curso\obj\Debug\Curso.csproj.AssemblyReference.cache
+D:\C#\Curso\Curso\obj\Debug\Curso.csproj.SuggestedBindingRedirects.cache
+D:\C#\Curso\Curso\obj\Debug\Curso.csproj.CoreCompileInputs.cache
+D:\C#\Curso\Curso\obj\Debug\Curso.exe
+D:\C#\Curso\Curso\obj\Debug\Curso.pdb

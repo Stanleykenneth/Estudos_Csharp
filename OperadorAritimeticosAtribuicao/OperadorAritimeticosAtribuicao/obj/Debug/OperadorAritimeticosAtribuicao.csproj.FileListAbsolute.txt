@@ -1,0 +1,8 @@
+D:\C#\OperadorAritimeticosAtribuicao\OperadorAritimeticosAtribuicao\bin\Debug\OperadorAritimeticosAtribuicao.exe.config
+D:\C#\OperadorAritimeticosAtribuicao\OperadorAritimeticosAtribuicao\bin\Debug\OperadorAritimeticosAtribuicao.exe
+D:\C#\OperadorAritimeticosAtribuicao\OperadorAritimeticosAtribuicao\bin\Debug\OperadorAritimeticosAtribuicao.pdb
+D:\C#\OperadorAritimeticosAtribuicao\OperadorAritimeticosAtribuicao\obj\Debug\OperadorAritimeticosAtribuicao.csproj.AssemblyReference.cache
+D:\C#\OperadorAritimeticosAtribuicao\OperadorAritimeticosAtribuicao\obj\Debug\OperadorAritimeticosAtribuicao.csproj.SuggestedBindingRedirects.cache
+D:\C#\OperadorAritimeticosAtribuicao\OperadorAritimeticosAtribuicao\obj\Debug\OperadorAritimeticosAtribuicao.csproj.CoreCompileInputs.cache
+D:\C#\OperadorAritimeticosAtribuicao\OperadorAritimeticosAtribuicao\obj\Debug\OperadorAritimeticosAtribuicao.exe
+D:\C#\OperadorAritimeticosAtribuicao\OperadorAritimeticosAtribuicao\obj\Debug\OperadorAritimeticosAtribuicao.pdb
